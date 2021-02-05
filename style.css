@@ -1,5 +1,14 @@
 .image1{
    background-image: url("space1.jpg"); 
    background-size: cover;
-   height: 80vh;
 }
+
+/* .card2{
+    position: relative;
+    top: 150px;
+} */
+
+@media (min-width: 576px) {.card2{
+    position: relative;
+    top: 150px;
+}}
