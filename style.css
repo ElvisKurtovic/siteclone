@@ -10,5 +10,9 @@
 
 @media (min-width: 576px) {.card2{
     position: relative;
-    top: 150px;
+    top: 135px;
 }}
+
+.green1{
+    color: green !important;
+}
